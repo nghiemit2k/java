@@ -7,5 +7,6 @@ public class test {
         if (a > 0) {
             System.out.println(a + b);
         }
+        System.out.println("done");
     }
 }
